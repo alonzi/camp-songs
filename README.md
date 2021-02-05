@@ -3,7 +3,7 @@ This repository contains camp songs. Welcome! If you are in need of a song then 
 
 ## To Contribute a Song
 1. fork the repo
-2. create a file for your song called <<songname>>.md
+2. create a file for your song called [songname].md
 3. use template.md for the structure and fill in the details.
 4. send that pull request
   
