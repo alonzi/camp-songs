@@ -4,7 +4,7 @@ This repository contains camp songs. Welcome! If you are in need of a song then 
 ## To contribute a song
 1. fork the repo
 2. create a file for your song called [songname].md
-3. use template.md for the structure and fill in the details.
+3. use template.md for the structure and fill in the details. (Use philosophy.md and teapot.md as a guide)
 4. send that pull request
   
 ## philosophy.md
