@@ -6,7 +6,7 @@
     * Don't give me no tea no tea
     * Just Give me that Milk, Wisconsin Milk
     * Moo Moo Moo Moo
-  * Chorus
+  * Chorus (each time through advance from M to I to L to K)
     * Leader: Give me a big 'M', Children: "MMMMMMMMMMMMM"
     * Leader: Give me a little 'm', Children: "m"
 3. motions
